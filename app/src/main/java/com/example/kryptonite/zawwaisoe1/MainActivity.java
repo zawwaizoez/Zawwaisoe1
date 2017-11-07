@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private  void ss(){
         int oo = 9;
         int pp=99;
+        String ii="hh";
+
     }
 }
