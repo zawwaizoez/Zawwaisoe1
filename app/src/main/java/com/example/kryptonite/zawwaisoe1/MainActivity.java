@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         int pp=99;
         String ii="hh";
         int fu=  88;
+        int luck =00;
 
     }
 }
